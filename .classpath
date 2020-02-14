@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/Git Gud/LinkedLists/jna-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/Git Gud/LinkedLists/jnagmp-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/Git Gud/LinkedLists/unicrypt-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/UnlimitedJCEPolicyJDK8/local_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/UnlimitedJCEPolicyJDK8/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ziki/Desktop/Git Gud/LinkedLists/bcprov-jdk15on-161.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
